@@ -37,4 +37,7 @@ Se debe recorrer todos los obstáculos hasta llegar a la rampa final.
 ![Imagen](https://github.com/DeividN21/Taller_5/blob/main/rampa_final.png?raw=true)
 
 # Enlace del Video de Demostración
-- Enlace
+- https://youtu.be/acsMsB8ohCc
+  
+# Enlace de Videojuego subido a itch.io
+- https://deividn21.itch.io/taller-5-incrementando-la-juiciness-en-videojuegos
